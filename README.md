@@ -17,3 +17,4 @@ These are the things I am going to try in this app.
 12. Download Manager
 13. Paging
 14. Data Store
+15. Dependency Injection (Dagger/Koin)

@@ -4,7 +4,7 @@ An app for taking note, syncing with server, made with latest component on andro
 ## Miro Board Link
 https://miro.com/app/board/uXjVOS7qIY0=/?invite_link_id=224540559294
 
-These are the things I am going to try in this app.
+## These are the things I am going to try in this app.
 
 1. Dependency Injection (Dagger/Koin)
 2. Data Binding
